@@ -1,6 +1,8 @@
 # 🏯 JLPT Study - Ứng dụng luyện thi JLPT
 
 JLPT Study là ứng dụng hỗ trợ học và luyện thi JLPT với các tính năng như từ điển, flashcard, làm bài tập Mondai, chế độ học theo cấp độ và chatbot hỗ trợ học tập.
+Link video demo: https://drive.google.com/file/d/103aMp8GFAJHV32Y_Os_jTv6YC1zOkafr/view?usp=sharing
+Link sql: https://drive.google.com/file/d/1Pz--mDfcbhu13u5dd1c6rDCAtjMGFVHm/view?usp=sharing
 
 ---
 
